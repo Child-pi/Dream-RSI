@@ -61,8 +61,7 @@ Yunsong Guo<sup>1</sup>
 
 ---
 
-> [!NOTE]
-> Code is being prepared for release. See [Release plan](#release-plan).
+
 
 <p align="center">
   <picture>
@@ -73,7 +72,8 @@ Yunsong Guo<sup>1</sup>
 </p>
 
 ## News
-
+- **October 2026** — Code released:
+  [google-research/dream-rsi](https://github.com/google-research/dream-rsi). 
 - **Sep 2026** — Preprint and project page released:
   [paper (PDF)](papers/Dream-RSI.pdf) ·
   [dream-rsi.com](https://www.dream-rsi.com)
@@ -129,10 +129,10 @@ off-policy feedback. The improved policy is redeployed online, continuously expa
 |---|---|
 | Paper (PDF) | ✅ Available |
 | Project page & interactive demo | ✅ [dream-rsi.com](https://www.dream-rsi.com) |
-| arXiv posting | 🔜 In progress |
+| arXiv posting | ✅ Available |
 | Discovered programs | ⏳ Being prepared |
-| Full codebase | ⏳ Being prepared |
-| Reproduction scripts | ⏳ Being prepared |
+| Full codebase | ✅ [google-research/dream-rsi](https://github.com/google-research/dream-rsi) |
+| Reproduction scripts | ✅ [google-research/dream-rsi](https://github.com/google-research/dream-rsi) |
 
 ## Citation
 
